@@ -1,0 +1,6 @@
+Student|Math|Science|English
+John|85|90|88
+Emma|92|87|91
+Michael|78|92|85
+Sophia|95|89|93
+William|88|94|86
